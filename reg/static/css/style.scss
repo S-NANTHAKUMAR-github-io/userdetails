@@ -1,0 +1,47 @@
+body{
+    /*background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(bgimg.png);*/
+    background-size: cover;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: 100% 100% 100% 100%;
+
+}
+
+#logout{
+    padding-left: 30px;
+    padding-right: 30px;
+    float: right;
+}
+
+h1{
+    margin: center;
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+    right: 2%;
+}
+#loginform{
+margin: center;
+text-align: center;
+position: absolute;
+top: 40%;
+width: 100%;
+text-align: center;
+right: 2%;
+}
+
+#registerform{
+    margin: center;
+text-align: center;
+position: absolute;
+top: 40%;
+width: 100%;
+text-align: center;
+right: 2%;
+
+}
+#username{
+    top: 90%;
+}
